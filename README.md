@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Advanced Java**
 
-- 💬 Ask me about **Java, HTML ,MongoDB,NoSql,Linux ,Maven ,Hibernate ,CSS,JavaScript, MySql,JDBC**
+- 💬 Ask me about **Java, HTML ,MongoDB,NoSql,Linux ,Maven ,Hibernate ,CSS,JavaScript, MySql,JDBC,DS , Servlet ang JSP**
 
 - 📫 How to reach me **nikhildivekar2002@gmail.com**
 
